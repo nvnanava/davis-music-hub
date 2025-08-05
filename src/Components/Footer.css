@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  text-align: center;
+  padding: 20px;
+  color: #614b3a;
+  font-weight: bold;
+  font-family: "Futura", sans-serif;
+  bottom: 1000px;
+  flex-direction: column;
+  position: fixed;
+  left: -50px;
+  bottom: 0;
+  width: 100%;
+}

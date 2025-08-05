@@ -1,43 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #3f7d58;
-  color: #fff;
-  padding: 1em;
+  background-color: #ece6c2;
+  color: #614b3a;
+  font-weight: bold;
+  padding: 0 1rem;
   position: fixed;
   min-height: 10px;
   top: 0;
   left: 0;
-  right: 0;
-  z-index: 1000;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  font-family: "Lato", sans-serif;
+
+  font-family: "IMPACT", sans-serif;
   font-size: 6px;
+  gap: 2rem;
 }
 
-.navbar-logo {
-  font-size: 1px;
-  font-family: "Lato";
+.navbar-title {
+  font-size: 20px;
   font-weight: bold;
-  color: #fff;
-  text-decoration: none;
-  display: flex;
+  color: #614b3a;
 }
 
 .navbar-links {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
   list-style: none;
   margin: 0;
-  gap: 10px;
 }
 
 .navbar-links a {
   color: #fff;
   text-decoration: none;
   font-size: 10px;
+  gap: 1rem;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 .navbar-links a:hover {
   text-decoration: underline;
@@ -53,4 +55,57 @@
 }
 .navbar-button:hover {
   background-color: #0056b3;
+}
+.navbar ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 1rem;
+  justify-content: center;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.navbar a {
+  color: #614b3a;
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.navbar_search {
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 0 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.navbar_search input {
+  padding: 5px;
+  border: 1px solid #190c0c;
+  font-size: 16px;
+  border-radius: 5px;
+  outline: none;
+  width: 200px;
+  text-indent: 25px;
+}
+.material-symbols-outlined {
+  font-size: 18px;
+  color: #614b3a;
+  position: absolute;
+  margin-left: 5px;
+  cursor: pointer;
+}
+.navbar_Emoji {
+  font-size: 20px;
+  margin-left: -25px;
+  margin-top: -41px;
+  color: transparent;
+  text-shadow: 0 0 0 #614b3a;
+  position: absolute;
 }

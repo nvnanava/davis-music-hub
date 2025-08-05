@@ -7,13 +7,16 @@ const Navbar = () => {
   return (
     // Return the JSX for the Navbar component
     <nav className="navbar">
-      {" "}
-      {/* Main navigation element */}
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=search"
+      />
+      ; {/* Main navigation element */}
       <div className="navbar_logo">
         {" "}
         {/* Logo section */}
-        <h1 className="navbar_title"> &#127911; Davis Artist Directory</h1>
-        {""}
+        <h1 className="navbar_title"> Davis Music Hub</h1>
+        <span className="navbar_Emoji"> &#127911; </span>
         {/* Title of the directory */}
       </div>
       <ul className="navbar_links">
@@ -22,18 +25,30 @@ const Navbar = () => {
         </li>{" "}
         {/* Link to home section */}
         <li>
-          <a href="#about">About</a>
+          <a href="#about">Artists</a>
         </li>{" "}
         {/* Link to about section */}
         <li>
-          <a href="#artists">Artists</a>
+          <a href="#artists">About</a>
         </li>{" "}
         {/* Link to artists section */}
         <li>
           <a href="#contact">Contact</a>
         </li>{" "}
         {/* Link to contact section */}
+        <li>
+          <a href="#GetFeatured">Get Featured</a>
+        </li>{" "}
+        {/* Link to Get Featured section */}
+        <li>
+          <a href="#events">Concerts</a>
+        </li>{" "}
+        {/* Link to Get Featured section */}
       </ul>
+      <div className="navbar_search">
+        <input type="text" placeholder="" />
+        <span class="material-symbols-outlined">search</span>
+      </div>
     </nav>
   );
 };
