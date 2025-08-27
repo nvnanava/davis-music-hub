@@ -1,0 +1,176 @@
+{
+  "sacArtists": [
+    {
+      "artistName": "Bit Brigade",
+      "bio": "Bit Brigade is a band that performs live video game music, combining rock and chiptune elements. They are known for their energetic performances and unique approach to video game soundtracks.",
+      "image": "assets/artistPhotos/bitBrigade-photo.jpeg",
+      "altText": "Bit Brigade performing live",
+      "genres": ["Rock, Chiptune"],
+      "spotifyLink": "https://open.spotify.com/artist/4k1z81z8z1z8z1z8z1z8",
+      "appleMusicLink": "https://music.apple.com/us/artist/bit-brigade/4k1z81z8z1z8z1z8z1z8",
+      "soundCloudLink": "https://soundcloud.com/bitbrigade",
+      "bandcampLink": "https://bitbrigade.bandcamp.com/",
+      "socials": {
+        "website": "https://www.bitbrigade.net",
+        "instagram": "https://www.instagram.com/bitbrigadeband",
+        "twitter": "https://twitter.com/bitbrigadeband"
+      },
+      "featured": true
+    },
+    {
+      "artistName": "Aggressive Manner",
+      "bio": "Aggressive Manner was completely formed March 2024. Originally just three friends jamming out then our Drummer Steve found us. Jules sings, Joshua plays guitar, Bunny on bass and steve drums.",
+      "image": "assets/artistPhotos/agressiveManner.jpg",
+      "altText": "Aggressive Manner performing live",
+      "genres": ["Punk Rock, Heavy Metal"],
+      "spotifyLink": "https://open.spotify.com/artist/5k1z81z8z1z8z1z8z1z8",
+      "appleMusicLink": "https://music.apple.com/us/artist/yekeno/5k1z81z8z1z8z1z8z1z8",
+      "soundCloudLink": "https://soundcloud.com/yekeno",
+      "bandcampLink": "https://yekeno.bandcamp.com/",
+      "socials": {
+        "website": "https://www.yekeno.com",
+        "instagram": "https://www.instagram.com/yekeno_music",
+        "twitter": "https://twitter.com/yekeno_music"
+      },
+      "featured": true
+    },
+    {
+      "artistName": "The Snares",
+      "bio": "The Snares are an American psych-rock outfit based in Sacramento, California. The band currently consists of Izzie Gomez , Lukas Brodie , Danielle Judith and Julian Paz.",
+      "image": "assets/artistPhotos/theSnares.jpeg",
+      "altText": "The Snares performing live",
+      "genres": ["Garage, Psych-Punk"],
+      "spotifyLink": "https://open.spotify.com/artist/6k1z81z8z1z8z1z8z1z8",
+      "appleMusicLink": "https://music.apple.com/us/artist/the-snares/6k1z81z8z1z8z1z8z1z8",
+      "soundCloudLink": "https://soundcloud.com/thesnares",
+      "bandcampLink": "https://thesnares.bandcamp.com/",
+      "socials": {
+        "website": "https://www.thesnaresband.com",
+        "instagram": "https://www.instagram.com/thesnaresband",
+        "x": "https://twitter.com/thesnaresband"
+      },
+      "featured": true
+    },
+    {
+      "artistName": "Guero",
+      "bio": "Based in Sacramento, CA, Güero is comprised of 5 members; Rik Krull, Wes Davis, Russell Volksen, Mike Ruiz and Shea Ritchie. The group consists of lifelong skateboarders and outdoor enthusiasts.",
+      "image": "assets/artistPhotos/Guero.jpg",
+      "altText": "Guero The Band performing live",
+      "genres": ["Indie, Rock"],
+      "spotifyLink": "https://open.spotify.com/artist/7k1z81z8z1z8z1z8z1z8",
+      "appleMusicLink": "https://music.apple.com/us/artist/guero/7k1z81z8z1z8z1z8z1z8",
+      "soundCloudLink": "https://soundcloud.com/guero_band",
+      "bandcampLink": "https://guero.bandcamp.com/",
+      "socials": {
+        "website": "https://www.guerotheband.com",
+        "instagram": "https://www.instagram.com/guerotheband",
+        "x": "https://twitter.com/guerotheband"
+      },
+      "featured": true
+    },
+    {
+      "artistName": "Rainbow City Park",
+      "bio": "Rainbow City Park is an indie-rock/dream pop band from Northern California. The group draws inspiration from the 90s alt-rock scene and modern artists",
+      "genres": ["Indie", "Dream Pop"],
+      "image": "assets/artistPhotos/RBCP.jpeg",
+      "altText": "Rainbow City Park performing live",
+      "spotifyLink": "https://open.spotify.com/artist/8k1z81z8z1z8z1z8z1z8",
+      "appleMusicLink": "https://music.apple.com/us/artist/rainbow-city-park/8k1z81z8z1z8z1z8z1z8",
+      "soundCloudLink": "https://soundcloud.com/rainbowcitypark",
+      "bandcampLink": "https://rainbowcitypark.bandcamp.com/",
+      "socials": {
+        "website": "https://www.rainbowcitypark.com",
+        "instagram": "https://www.instagram.com/rainbowcitypark",
+        "x": "https://twitter.com/rainbowcitypark"
+      },
+      "featured": false
+    },
+    {
+      "artistName": "Son Cafe",
+      "bio": "Son Cafe is a Sacramento-based band that blends Latin rhythms with modern rock influences. Their music is characterized by vibrant melodies and energetic performances.",
+      "genres": ["Latin", "Rock"],
+      "image": "assets/artistPhotos/SonCafe.jpeg",
+      "altText": "Son Cafe performing live",
+      "spotifyLink": "https://open.spotify.com/artist/9k1z81z8z1z8z1z8z1z8",
+      "appleMusicLink": "https://music.apple.com/us/artist/son-cafe/9k1z81z8z1z8z1z8z1z8",
+      "soundCloudLink": "https://soundcloud.com/soncafe",
+      "bandcampLink": "https://soncafe.bandcamp.com/",
+      "socials": {
+        "website": "https://www.soncafeband.com",
+        "instagram": "https://www.instagram.com/soncafe_band",
+        "x": "https://twitter.com/soncafe_band"
+      },
+      "featured": false
+    },
+
+    {
+      "artistName": "The Andromeda Project",
+      "bio": "The Andromeda Project is a progressive rock band known for their intricate compositions and thought-provoking lyrics. They blend elements of rock, jazz, and classical music to create a unique sound.",
+      "genres": ["Progressive Rock", "Jazz Fusion"],
+      "image": "assets/artistPhotos/AndromedaProject.jpeg",
+      "altText": "The Andromeda Project performing live",
+      "appleMusicLink": "https://music.apple.com/gb/artist/the-andromeda-project/1381116430",
+      "bandcampLink": "https://bandcamp.com/andropro423",
+      "socials": {
+        "website": "https://www.theandromedaproject.com",
+        "instagram": "https://www.instagram.com/theandromedaproject_band",
+        "x": "https://twitter.com/theandromedaproject"
+      },
+      "featured": false
+    },
+    {
+      "artistName": "Brothers Nunez",
+      "bio": "Brothers Nunez is a rock band from Sacramento, CA. The band was initially formed by brothers Daniel and Gabe Nunez in 2010",
+      "genres": ["Rock", "Alternative"],
+      "image": "assets/artistPhotos/BrothersNunez.jpeg",
+      "altText": "Brothers Nunez performing live",
+      "bandcampLink": "https://brothersnunez.bandcamp.com/",
+      "featured": false
+    },
+
+    {
+      "artistName": "Element Brass Band",
+      "bio": "Element Brass Band is a brass band from Sacramento, California. They are known for their energetic performances and unique blend of jazz, funk, and New Orleans-style brass music.",
+      "genres": ["Brass Band", "Jazz", "Funk"],
+      "image": "assets/EBB.jpeg",
+      "altText": "Element Brass Band performing live",
+      "socials": {
+        "instagram": "https://www.instagram.com/elementbrassband"
+      },
+      "featured": false
+    },
+    {
+      "artistName": "Rosemother",
+      "bio": "Rosemother began in 2016 when singer-songwriter Haley Rae began to record tracks in her bedroom. She layered ethereal synths, rich vocal harmonies, and reverb-soaked guitars.",
+      "image": "assets/artistPhotos/roseMother.jpeg",
+      "altText": "Rosemother performing live",
+      "genres": ["Rock, Folk, Indie"],
+      "spotifyLink": "https://open.spotify.com/artist/2JUJ7dZ4TMRd64mSKKCzcr",
+      "appleMusicLink": "https://music.apple.com/us/artist/rosemother/1314171622",
+      "soundCloudLink": "https://soundcloud.com/rosemotherr",
+      "bandcampLink": "https://rosemother.bandcamp.com/",
+      "socials": {
+        "website": "https://www.rosemothermusic.com/",
+        "instagram": "https://www.instagram.com/rosemotherband"
+      },
+      "featured": true
+    },
+    {
+      "artistName": "Ideateam",
+      "bio": "Ideateam is an evolving cast of Sacramento-based musicians who work together collectively to refine their craft through their distinct original compositions",
+      "genres": ["Experimental", "Jazz", "Rock"],
+      "image": "assets/artistPhotos/IDEATEAM.jpg",
+      "altText": "Ideateam performing live",
+      "spotifyLink": "https://open.spotify.com/artist/0EBYMW8H5CFrBhqaDmtNzs",
+      "appleMusicLink": "https://music.apple.com/us/artist/ideateam/1171580407",
+      "soundCloudLink": "https://soundcloud.com/ideateam",
+      "bandcampLink": "https://ideateam.bandcamp.com/",
+      "socials": {
+        "website": "https://www.ideateamband.com/",
+        "instagram": "https://www.instagram.com/ideateamband/?hl=en",
+        "facebook": "https://www.facebook.com/ideateamband"
+      },
+      "featured": false
+    }
+  ]
+}

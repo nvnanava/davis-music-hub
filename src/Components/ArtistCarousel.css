@@ -1,0 +1,89 @@
+.artist-carousel {
+  background-color: #f0f0f0a8;
+  border-radius: 4%;
+  margin: 0 auto;
+  padding: 1px;
+  max-width: 800px;
+  max-height: 300px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transform: translate(-53%, -55%);
+}
+.carousel-title {
+  font-size: 20px;
+  color: #333;
+  margin-bottom: 9px;
+  position: relative;
+
+  left: 8px;
+  top: -4px;
+  font-family: "Futura", sans-serif;
+  color: #614b3a;
+}
+.artist-name {
+  font-size: 29px;
+  font-weight: bold;
+  position: relative; /* Relative positioning for the artist name */
+  left: 430px; /* Adjust as needed */
+  top: -235px; /* Adjust as needed */
+  color: #614b3a;
+  font-family: "Futura", sans-serif;
+}
+.artist-bio {
+  width: 40%; /* Or a specific max-width in pixels */
+  position: relative;
+  left: 430px; /* Adjust as needed */
+  top: -259px; /* Adjust as needed */
+  font-family: "Futura", sans-serif;
+  color: #614b3a;
+}
+
+.viewBtn {
+  background-color: #614b3a;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: "Futura", sans-serif;
+  position: relative;
+  left: 425px;
+  top: -280px;
+  font-weight: bold;
+}
+.artist-image {
+  width: 295px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 4%;
+}
+.artist-genres {
+  position: relative;
+  left: 10px; /* Adjust as needed */
+  top: -220px; /* Adjust as needed */
+  font-family: "Futura", sans-serif;
+  color: #614b3a;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.carousel-item {
+  display: flex;
+  flex-direction: row;
+}
+.viewBtn:hover {
+  background-color: #7a5a4b;
+  transition: background-color 0.3s ease;
+}
+
+.slick-next::before {
+  display: none;
+}
+.slick-prev::before {
+  display: none;
+}
